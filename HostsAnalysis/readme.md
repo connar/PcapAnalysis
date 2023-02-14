@@ -11,6 +11,6 @@ This script is run as :
 
 ### Example [from the BURNINCANDLE malware traffic exercise]
 After this script is run upon the burnincandle exercise pcap file, it outputs the following : 
-![image](https://user-images.githubusercontent.com/87579399/218774598-50ddcf72-17b0-4a45-b48f-fa19a6407231.png)
+![image](https://user-images.githubusercontent.com/87579399/218873379-0ac2b41a-b374-43a1-b16f-ce6353d1f07d.png)
 
 
